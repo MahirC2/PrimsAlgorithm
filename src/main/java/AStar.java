@@ -4,6 +4,9 @@ import java.util.Objects;
 import java.util.PriorityQueue;
 import java.util.Set;
 
+/**
+ * @author: MahirC2
+ */
 public class AStar
 {
     private final int[][] directions = new int[][]{{0,-1}, {-1,0}, {1,0}, {0,1}};

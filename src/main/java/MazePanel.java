@@ -1,6 +1,9 @@
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * @author: MahirC2
+ */
 public class MazePanel extends JPanel {
     private final char[][] grid;
 

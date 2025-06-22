@@ -3,6 +3,9 @@ import java.awt.*;
 import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;
 
+/**
+ * @author: MahirC2
+ */
 public class MazeWindow {
 
     public static void show(char[][] grid, MazePanel mazePanel, JLabel progressLabel, JButton primsButton, JButton aStarButton, JButton dfsButton, JButton bfsButton) {
