@@ -1,0 +1,10 @@
+How to run?
+
+Click on PrimsAlgorithm class and run the main method.
+
+Changing the grid size - manually go into the code (PrimsAlgorithm line 7) and change from there, ODD numbers are highly
+recommended.
+
+Run Prim's algorithm first, then any of the path finding algs.
+
+Enjoy.
